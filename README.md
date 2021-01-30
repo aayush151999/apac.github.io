@@ -12,3 +12,8 @@ The deep learning algorithm mainly Sketch RNN tries to make the drawings of vari
 * This project is mainly based on Sketch RNN(recurrent neural networks) , which analyses human sketches and presents them on a vector format. RNN's can learn and remember context in prediction problems for machine learning. This is also the reason it has now been explored in modelling images.
 * The `Sketch-RNN` would seek and learn information from loads of drawings by humans which are again segregated into different classes and is trained to generate them.
 * The dataset for the neural network model was obtained from Google's QuickDraw(https://quickdraw.withgoogle.com/) , an AI web application where the researchers asked users to draw objects a specific class.
+
+## Contributors~
+*Himanshu Tripathi
+*Tanisha Rakshit
+*Aayush Shrestha
